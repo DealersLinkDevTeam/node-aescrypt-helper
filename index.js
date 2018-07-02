@@ -1,7 +1,7 @@
 // aescrypt.js
 
 // Dependencies
-const __ = require('@mediaxpost/lodashext');
+const __ = require('@dealerslink/lodash-extended');
 const crypto = require('crypto');
 const bsplit = require('buffer-split');
 
