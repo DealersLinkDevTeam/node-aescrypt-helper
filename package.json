@@ -1,6 +1,6 @@
 {
   "name": "@dealerslink/node-aescrypt-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple tools to deal with the AES-256 encryption and decryption of data with arbitrary lengths",
   "main": "index.js",
   "scripts": {
